@@ -1,0 +1,49 @@
+{
+  "name": "@rbxts/convexhull",
+  "version": "1.0.0",
+  "description": "A simple package for generating convex hulls using Chan's Algorithm.",
+  "main": "out/init.lua",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w",
+    "release": "np",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "Typescript",
+    "Lua",
+    "Roblox",
+    "Convex Hull",
+    "Geometry"
+  ],
+  "author": "Luc Rodriguez <luc.rodriguez@seemless.gg> (https://github.com/Shambi-0)",
+  "license": "ECL-2.0",
+  "types": "out/index.d.ts",
+  "files": [
+    "out",
+    "!**/*.tsbuildinfo"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/Shambi-0/convexhull/issues"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^2.1.0-types.1",
+    "@rbxts/types": "^1.0.708",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
+    "eslint": "^8.46.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-roblox-ts": "^0.0.35",
+    "np": "^8.0.4",
+    "prettier": "^3.0.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@rbxts/sift": "^0.0.6"
+  }
+}
