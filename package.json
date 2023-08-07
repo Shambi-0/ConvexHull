@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/convexhull",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package for generating convex hulls using Chan's Algorithm.",
   "main": "out/init.lua",
   "homepage": "https://github.com/Shambi-0/convexhull/blob/main/README.md",
