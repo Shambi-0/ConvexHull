@@ -6,7 +6,9 @@
 
 An *Open-Source* Convex Hull library for *Roblox*, Based off of [**Chan's algorithm**](https://en.wikipedia.org/wiki/Chan%27s_algorithm).
 
-Visual example:
+
+##### ️🎨 Visual example:
+
 ![Wkikipedia Example](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ChanAlgDemo.gif/320px-ChanAlgDemo.gif)
 
 

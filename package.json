@@ -29,6 +29,9 @@
     "out",
     "!**/*.tsbuildinfo"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/Shambi-0/convexhull/issues"
   },
