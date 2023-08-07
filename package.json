@@ -29,9 +29,6 @@
     "out",
     "!**/*.tsbuildinfo"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "bugs": {
     "url": "https://github.com/Shambi-0/convexhull/issues"
   },
@@ -44,7 +41,7 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-roblox-ts": "^0.0.35",
-    "np": "^8.0.4",
+    "np": "*",
     "prettier": "^3.0.1",
     "typescript": "^5.1.6"
   },
