@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/@rbxts/convexhull.png)](https://npmjs.org/package/@rbxts/convexhull)
 
-# @rbxts/crypto
+# @rbxts/convexhull
 
 An *Open-Source* Convex Hull library for *Roblox*, Based off of [**Chan's algorithm**](https://en.wikipedia.org/wiki/Chan%27s_algorithm).
 
